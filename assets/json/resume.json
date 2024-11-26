@@ -6,7 +6,7 @@
     "email": "brant.walker@yale.edu",
     "phone": "",
     "url": "https://brantjwalker.github.io/",
-    "summary": "Ph.D. Student at Yale Univeristy studying economics and the environment."
+    "summary": "Ph.D. Student at Yale Univeristy."
   },
   "education": [
     {
@@ -14,7 +14,7 @@
       "url": "https://resources.environment.yale.edu/groups/enre",
       "studyType": "PhD",
       "startDate": "2024",
-      "endDate": "2029 (expected)"
+      "endDate": "2029"
     },
     {
       "institution": "University of California, Berkeley",
@@ -51,7 +51,9 @@
       "title": "Fulbright Research Fellowship - Germany, Universität Mannheim",
       "date": "2021",
       "awarder": "National Science Foundation"
-    }
+    },
+    {
+      "title": "George S. Schaeffer Scholarship in Science"
   ],
   "publications": [
     {
