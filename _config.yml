@@ -311,7 +311,7 @@ display_categories: ["external-services"] # these categories will be displayed o
 
 scholar:
   last_name: [Walker]
-  first_name: [Brant, J.]
+  first_name: [Brant, Brant J., B. J.]
 
   style: apa
   locale: en
