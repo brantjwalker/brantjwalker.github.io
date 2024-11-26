@@ -13,10 +13,10 @@
   contents:
     - title: Ph.D., Environmental Ecnoomics
       institution: Yale University, School of the Environment
-      year: 2024--2029 (expected)
+      year: 2024--2029 
     - title: Bachelor of Science, Mathematics & Economics
       institution: University of Iowa
-      year: 2017-2021
+      year: 2017--2021
 
 - title: Experience
   type: time_table
@@ -58,21 +58,27 @@
   contents:
     - year: 2024
       items:
-        - “Are Earmarks Equally Targeted: Evidence from US Drinking Water”, 2024. AEA Papers & Proceedings. With David A. Keiser, Bhashkar Mazumder, David Molitor, and Joseph S. Shapiro.
+        - '"Are Earmarks Equally Targeted: Evidence from US Drinking Water”, 2024. AEA Papers & Proceedings. With David A. Keiser, Bhashkar Mazumder, David Molitor, and Joseph S. Shapiro.'
 
 - title: Presentations
   type: time_table
   contents: 
     - year: 2024
-      items: Yale University
+      items: 
+        - Yale University
     - year: 2023
-      items: Southern Economic Association
+      items: 
+        - Southern Economic Association
     - year: 2022
-      items: Universität Mannheim
+      items: 
+        - Universität Mannheim
     - year: 2021
-      items: Univeristy of Iowa
+      items: 
+        - Univeristy of Iowa
     - year: 2020
-      items: Western Economic Association, University of Iowa
+      items: 
+        - Western Economic Association
+        - University of Iowa
 
 - title: Skills
   type: nested_list
