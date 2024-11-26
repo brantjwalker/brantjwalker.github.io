@@ -96,7 +96,8 @@
 - title: Other
   type: nested_list
   contents:
-    - title: Special Sworn Status, US Census Bureau
+    - title: Data
+      items: Special Sworn Status, US Census Bureau
     - title: Non-academic interests: 
       items:
         - Ice hockey
