@@ -11,47 +11,31 @@
 - title: Education
   type: time_table
   contents:
-    - title: Ph.D., Environmental Ecnoomics
+    - title: Ph.D., Environmental Economics
       institution: Yale University, School of the Environment
       year: 2024--2029
     - title: Bachelor of Science, Mathematics & Economics
       institution: University of Iowa
       year: 2017--2021
 
-- title: Experience
-  type: time_table
-  contents:
-    - title: Pre-doctoral Research Fellow, Economics
-      institution: University of California, Berkeley
-      year: 2023--2024
-    - title: Pre-doctoral Research Fellow, Economics
-      institution: Stanford University
-      year: 2022--2023
-    - title: Fulbright Research Fellow, Economics
-      institution: Universität Mannheim
-      year: 2021--2022
-    - title: Undergraduate Research Fellow, Economics
-      institution: University of Iowa
-      year: 2019--2021
-
 - title: Honors and Awards
   type: time_table
   contents:
     - year: 2024
       items:
-        - NSF Graduate Research Fellowship
+        - NSF Graduate Research Fellowship Program
     - year: 2022
       items:
-        - Fulbright Research Grant
+        - Fulbright Research Fellowship, Universität Mannheim
     - year: 2021
       items:
-        - George S. Schaeffer Scholarship in Science
+        - George S. Schaeffer Scholarship in Science, University of Iowa
     - year: 2020
       items:
         - Excellence in Research, University of Iowa
-        - Phi Beta Kappa
-        - Research Fellowship (U of I Public Policy Center)
-        - Research Fellowship (U of I Center for Research by Undergraduates)
+        - Phi Beta Kappa, University of Iowa
+        - Research Fellowship, University of Iowa Public Policy Center
+        - Research Fellowship, University of Iowa Center for Research by Undergraduates
 
 - title: Publications
   type: time_table
@@ -91,6 +75,7 @@
         - Google Earth Engine
         - Google Cloud
         - QGIS
+        - ArcGIS
         - Knitro
     - title: Programming (adequate)
       items:
@@ -98,6 +83,22 @@
         - Julia
         - Fortran
         - AMPL
+
+- title: Experience
+  type: time_table
+  contents:
+    - title: Pre-doctoral Research Fellow, Economics
+      institution: University of California, Berkeley
+      year: 2023--2024
+    - title: Pre-doctoral Research Fellow, Economics
+      institution: Stanford University
+      year: 2022--2023
+    - title: Fulbright Research Fellow, Economics
+      institution: Universität Mannheim
+      year: 2021--2022
+    - title: Undergraduate Research Fellow, Economics
+      institution: University of Iowa
+      year: 2019--2021
 
 - title: Other
   type: nested_list
