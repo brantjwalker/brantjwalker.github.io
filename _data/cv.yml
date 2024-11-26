@@ -2,96 +2,108 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Brant Joseph Walker
     - name: Date of Birth
-      value: 14th March 1879
+      value: December 28th, 1998
     - name: Languages
-      value: English, German
+      value: English (native), German (intermediate)
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
-      description:
-        - Description 1.
-        - Description 2.
+    - title: Ph.D., Environmental Ecnoomics
+      institution: Yale University, School of the Environment
+      year: 2024--2029 (expected)
+    - title: Bachelor of Science, Mathematics & Economics
+      institution: University of Iowa
+      year: 2017-2021
 
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
-      description:
-        - Description 1.
-        - Description 2.
-
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
-      description:
-
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Open Source Projects
-  type: time_table
-  contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - title: Pre-doctoral Research Fellow, Economics
+      institution: University of California, Berkeley
+      year: 2023--2024
+    - title: Pre-doctoral Research Fellow, Economics
+      institution: Stanford University
+      year: 2022--2023
+    - title: Fulbright Research Fellow, Economics
+      institution: Universität Mannheim
+      year: 2021--2022
+    - title: Undergraduate Research Fellow, Economics
+      institution: University of Iowa
+      year: 2019--2021
 
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 1921
+    - year: 2024
       items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
+        - NSF Graduate Research Fellowship
+    - year: 2022
       items:
-        - Max Planck Medal
+        - Fulbright Research Grant
+    - year: 2021
+      items: 
+        - George S. Schaeffer Scholarship in Science
+    - year: 2020
+      items:
+        - Excellence in Research, University of Iowa
+        - Phi Beta Kappa
+        - Research Fellowship (U of I Public Policy Center)
+        - Research Fellowship (U of I Center for Research by Undergraduates)
 
-- title: Academic Interests
+- title: Publications
+  type: time_table
+  contents:
+    - year: 2024
+      items:
+        - “Are Earmarks Equally Targeted: Evidence from US Drinking Water”, 2024. AEA Papers & Proceedings. With David A. Keiser, Bhashkar Mazumder, David Molitor, and Joseph S. Shapiro.
+
+- title: Presentations
+  type: time_table
+  contents: 
+    - year: 2024
+      items: Yale University
+    - year: 2023
+      items: Southern Economic Association
+    - year: 2022
+      items: Universität Mannheim
+    - year: 2021
+      items: Univeristy of Iowa
+    - year: 2020
+      items: Western Economic Association, University of Iowa
+
+- title: Skills
+  type: nested_list
+  contents: 
+    - title: Programming (proficient)
+      items: 
+        - Python
+        - R
+        - Stata
+        - Google Earth Engine
+        - Google Cloud
+        - QGIS
+        - Knitro
+    - title: Programming (adequate)
+      items: 
+        - MATLAB
+        - Julia
+        - Fortran
+        - AMPL
+
+- title: Other
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: Special Sworn Status, US Census Bureau
+    - title: Non-academic interests: 
       items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
-
-- title: Other Interests
-  type: list
-  contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+        - Ice hockey
+        - Biking
+        - Hiking
+        - Tennis
+        - Chess
+        - Reading fiction
+        - Cooking
+    - title: Hometown: Newhall, Iowa, United States
