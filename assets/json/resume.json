@@ -44,12 +44,12 @@
   "awards": [
     {
       "title": "Graduate Research Fellowship Program",
-      "date": "2024--2029",
+      "date": "2024",
       "awarder": "National Science Foundation"
     },
     {
       "title": "Fulbright Research Fellowship - Germany, Universität Mannheim",
-      "date": "2021--2022",
+      "date": "2021",
       "awarder": "National Science Foundation"
     }
   ],
@@ -77,11 +77,7 @@
     {
       "name": "Economics",
       "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Environmental and Resource Economics",
-        "Industrial Organization",
-        "Trade",
-        "Public Finance"
+      "keywords": ["Environmental and Resource Economics", "Industrial Organization", "Trade", "Public Finance"
       ]
     }
   ]
