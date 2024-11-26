@@ -11,7 +11,7 @@ profile:
   
 news: false # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
-social: false # includes social icons at the bottom of the page
+social: true # includes social icons at the bottom of the page
 ---
 
 I am a Ph.D. Student and NSF Graduate Student Research Fellow at Yale University's School of the Environment. I am interested in environmental and natural resource economics, industrial organization, trade, and public finance. 
