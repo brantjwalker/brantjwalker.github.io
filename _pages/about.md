@@ -6,7 +6,7 @@ subtitle: <a href='https://resources.environment.yale.edu/groups/enre'>Yale Univ
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: headshot2024.jpg
   image_circular: false # crops the image to make it circular
   
 news: false # includes a list of news items
