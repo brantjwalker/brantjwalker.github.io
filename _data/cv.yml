@@ -13,7 +13,7 @@
   contents:
     - title: Ph.D., Environmental Ecnoomics
       institution: Yale University, School of the Environment
-      year: 2024--2029 
+      year: 2024--2029
     - title: Bachelor of Science, Mathematics & Economics
       institution: University of Iowa
       year: 2017--2021
@@ -44,7 +44,7 @@
       items:
         - Fulbright Research Grant
     - year: 2021
-      items: 
+      items:
         - George S. Schaeffer Scholarship in Science
     - year: 2020
       items:
@@ -64,27 +64,27 @@
   type: time_table
   contents: 
     - year: 2024
-      items: 
+      items:
         - Yale University
     - year: 2023
-      items: 
+      items:
         - Southern Economic Association
     - year: 2022
-      items: 
+      items:
         - Universität Mannheim
     - year: 2021
-      items: 
+      items:
         - Univeristy of Iowa
     - year: 2020
-      items: 
+      items:
         - Western Economic Association
         - University of Iowa
 
 - title: Skills
   type: nested_list
-  contents: 
+  contents:
     - title: Programming (proficient)
-      items: 
+      items:
         - Python
         - R
         - Stata
@@ -93,7 +93,7 @@
         - QGIS
         - Knitro
     - title: Programming (adequate)
-      items: 
+      items:
         - MATLAB
         - Julia
         - Fortran
@@ -114,5 +114,5 @@
         - Reading fiction
         - Cooking
     - title: Hometown
-      items: 
+      items:
         - Newhall, Iowa, United States
