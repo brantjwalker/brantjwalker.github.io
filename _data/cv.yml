@@ -18,6 +18,13 @@
       institution: University of Iowa
       year: 2017--2021
 
+- title: Publications
+  type: time_table
+  contents:
+    - year: 2024
+      items:
+        - '"Are Earmarks Equally Targeted: Evidence from US Drinking Water”, 2024. AEA Papers & Proceedings. With David A. Keiser, Bhashkar Mazumder, David Molitor, and Joseph S. Shapiro. [Published version](https://www.aeaweb.org/articles?id=10.1257/pandp.20241009)'
+
 - title: Honors and Awards
   type: time_table
   contents:
@@ -37,12 +44,6 @@
         - Research Fellowship, University of Iowa Public Policy Center
         - Research Fellowship, University of Iowa Center for Research by Undergraduates
 
-- title: Publications
-  type: time_table
-  contents:
-    - year: 2024
-      items:
-        - '"Are Earmarks Equally Targeted: Evidence from US Drinking Water”, 2024. AEA Papers & Proceedings. With David A. Keiser, Bhashkar Mazumder, David Molitor, and Joseph S. Shapiro.'
 
 - title: Presentations
   type: time_table
