@@ -25,7 +25,7 @@ author:
   avatar           : "headshot2024.jpg"
   name             : "Brant J. Walker"
   pronouns         : # example: "she/her"  
-  bio              : "Ph.D. Student"
+  bio              : "Ph.D. Student and GRFP Research Fellow"
   location         : # example: "New York, NY"
   employer         : "Yale University"
   uri              : # URL
@@ -53,7 +53,7 @@ author:
 
   # Social media
   artstation       : # Username
-  bluesky          : "brantjwalker" # Replace this with you Bluesky username
+  bluesky          : "brantjwalker.bsky.social" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
