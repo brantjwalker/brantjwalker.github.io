@@ -19,9 +19,7 @@ Working Papers
 ------
 
 **[Deep Learning Projects New and Proposed Clean Water Act Regulation](https://brantjwalker.github.io/files/Papers/Clean_Water_Act_Deep_Learning_Main_Text_and_SM.pdf).** 
-
 &nbsp;&nbsp;&nbsp;&nbsp;[Simon Greenhill](https://simondgreenhill.github.io/), Brant J. Walker, and [Joseph S. Shapiro](https://www.joseph-s-shapiro.com/) 
-
 &nbsp;&nbsp;&nbsp;&nbsp;***Submitted***
 
 
@@ -29,8 +27,6 @@ Publications
 ------
 
 **[Do Earmarks Target Low-Income and Minority Communities? Evidence from US Drinking Water](https://brantjwalker.github.io/files/Papers/SDWA_Earmarks_WP.pdf)** [[journal version]](https://www.aeaweb.org/articles?id=10.1257/pandp.20241009)
-
 &nbsp;&nbsp;&nbsp;&nbsp;[David A. Keiser](https://sites.google.com/site/dkeiserecon/home), [Bhashkar Mazumder](https://sites.google.com/view/bhash/home), [David Molitor](https://www.davidmolitor.com/), [Joseph S. Shapiro](https://www.joseph-s-shapiro.com/), and Brant J. Walker.
-
 &nbsp;&nbsp;&nbsp;&nbsp;***AEA Papers and Proceedings***, 2024. Volume 114: 36-40.
 
