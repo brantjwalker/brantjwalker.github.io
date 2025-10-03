@@ -5,33 +5,12 @@ permalink: /sitemap/
 author_profile: true
 ---
 
-{% include base_path %}
+Important Files:
+------
 
-A list of all the posts and pages found on the site. For you robots out there, there is an [XML version]({{ base_path }}/sitemap.xml) available for digesting as well.
+[CV (pdf)](https://brantjwalker.github.io/files/CV.pdf)
+[Keiser et al. 2024](https://brantjwalker.github.io/files/Papers/SDWA_Earmarks_WP.pdf)
+[Greenhill, Walker, Shapiro 2025](https://brantjwalker.github.io/files/Papers/Clean_Water_Act_Deep_Learning_Main_Text_and_SM.pdf)
 
-<h2>Pages</h2>
-{% for post in site.pages %}
-  {% include archive-single.html %}
-{% endfor %}
-
-<h2>Posts</h2>
-{% for post in site.posts %}
-  {% include archive-single.html %}
-{% endfor %}
-
-{% capture written_label %}'None'{% endcapture %}
-
-{% for collection in site.collections %}
-{% unless collection.output == false or collection.label == "posts" %}
-  {% capture label %}{{ collection.label }}{% endcapture %}
-  {% if label != written_label %}
-  <h2>{{ label }}</h2>
-  {% capture written_label %}{{ label }}{% endcapture %}
-  {% endif %}
-{% endunless %}
-{% for post in collection.docs %}
-  {% unless collection.output == false or collection.label == "posts" %}
-  {% include archive-single.html %}
-  {% endunless %}
-{% endfor %}
-{% endfor %}
+[Iowa Transcript](https://brantjwalker.github.io/files/IowaFinalTranscript.pdf)
+[Stanford Transcript](https://brantjwalker.github.io/files/stanfordTranscript.pdf)
