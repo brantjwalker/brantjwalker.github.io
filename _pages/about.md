@@ -30,3 +30,7 @@ Publications
 &nbsp;&nbsp;&nbsp;&nbsp;[David A. Keiser](https://sites.google.com/site/dkeiserecon/home), [Bhashkar Mazumder](https://sites.google.com/view/bhash/home), [David Molitor](https://www.davidmolitor.com/), [Joseph S. Shapiro](https://www.joseph-s-shapiro.com/), and Brant J. Walker.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;***AEA Papers and Proceedings***, 2024. Volume 114: 36-40.
 
+Extras
+------
+
+[Time Diary: An economics Ph.D. student's hours worked. (Year 1 Spring through Year 2 Fall)](https://brantjwalker.github.io/files/Extras/timediary_110125.pdf)
