@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. Student and NSF Graduate Research Fellow at Yale University's School of the Environment. I am interested in environmental and natural resource economics, industrial organization, trade, and public finance.
+I am a Ph.D. Student and NSF Graduate Research Fellow at Yale University's School of the Environment. I am interested in environmental and natural resource economics, trade, and industrial organization.
 
-Prior to my Ph.D., I worked at the University of Mannheim, Stanford University, and the University of California Berkeley. 
+**I am visiting Harvard University during the Fall 2026 semester. If you are in the Cambridge/Boston area, please reach out!**
 
 While thinking about research ideas, I enjoy ice hockey, biking, hiking, chess, and generally breathing fresh air.
 
